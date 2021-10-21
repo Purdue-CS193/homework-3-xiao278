@@ -3,6 +3,7 @@ test message
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+git fetch fetches information from remote server
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
